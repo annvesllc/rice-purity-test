@@ -1,5 +1,5 @@
 # Rice Purity Quiz Embed Plugin for WordPress
-The Rice Purity Test Quiz Embed Plugin offers a straightforward and efficient method to incorporate the Rice Purity Quiz into your WordPress site. This lightweight plugin uses a shortcode to embed the quiz via an iframe, enhancing your website's content with an interactive element that encourages user engagement and participation.
+The [Rice Purity Test](https://ricepurityytest.com) Quiz Embed Plugin offers a straightforward and efficient method to incorporate the Rice Purity Quiz into your WordPress site. This lightweight plugin uses a shortcode to embed the quiz via an iframe, enhancing your website's content with an interactive element that encourages user engagement and participation.
 
 ## Features
 Easy Embedding: Embed the Rice Purity Quiz into your posts or pages using a simple shortcode.
